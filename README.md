@@ -28,13 +28,9 @@
   <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
 </span>
 
-### Social media and contact with me
-
-
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  <a href="https://www.instagram.com/_.juacovp._dku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JuacoDepv" height="30" width="40" /></a>
+  <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
+    
 ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/6dOenYWgmDpinxmvqxECi1)
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
