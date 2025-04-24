@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/_.juacovp._dku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JuacoDepv" height="30" width="40" /></a>
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
     
-### Spotify Playing 🎧
+<h2> Spotify Playing 🎧 </h2> 
 
 
 
