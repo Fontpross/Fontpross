@@ -1,5 +1,5 @@
 
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 
 <h1> My Skills </h1>
@@ -33,4 +33,19 @@
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
     
 ### Spotify Playing 🎧
+
+
+
+<h2> Profile stats 📊 </h2>
+<div align="left">
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"
+    />
+    
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fontpross&theme=vue" alt="profile detail" />
+</div>
 
