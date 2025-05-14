@@ -1,12 +1,12 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <h3>Hola Mi nombre es Joaquin Torres</h3>
-<p>Soy un Analista Programador Actualmente enfocado mas en el desarrollo de software, aplicaciones web, diseños y estructura en CSS, Desarrollo de bases de datos intermedias. Progresivamente me desarrollo en algunas extensiones de los lenguajes para realizar analisis de datos y automatizacion </p>
+<p>Soy un Analista Programador Actualmente enfocado mas en el desarrollo de software, aplicaciones web, diseños y estructura en CSS, Desarrollo de bases de datos intermedias. Progresivamente me integro en los lenguajes para realizar analisis de datos y automatizacion de tareas</p>
 
 <br>
 
 <p> Los lenguajes, base de datos y framework descritos en mi perfil 
-<br> son bases enseñadas desde la carrera hasta una progresion intermedia y en algunas mas avanzadas.</p>
+<br> son bases enseñadas desde la carrera desde una progresion intermedia y hasta en algunas un poco mas avanzadas.</p>
 
 <br>
 <h1> My Skills </h1>
