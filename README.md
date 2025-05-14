@@ -5,8 +5,8 @@
 
 <br>
 
-<p> Los lenguajes, base de datos y framework descritos en mi perfil 
-<br>Son bases enseñadas desde la carrera desde una progresion intermedia y hasta en algunas un poco mas avanzadas.</p>
+<p>Los lenguajes de programacion, bases de datos y framework descritos en mi perfil
+<br>Son bases enseñadas desde la carrera en la cual me desarrolle, esto incluye una progresion de desarrollo intermedio y en otros lenguajes un poco mas avanzados.</p>
 
 <br>
 <h1> My Skills </h1>
