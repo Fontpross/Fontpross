@@ -1,6 +1,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-
+<h1> Hola Mi nombre es Joaquin Torres</h1>
 
 <h1> My Skills </h1>
 <h3> Languages </h3>
