@@ -4,13 +4,14 @@
 <p>
   Soy Analista Programador, actualmente enfocado en el desarrollo de software y aplicaciones web. Poseo conocimientos intermedios en desarrollo de bases de datos, diseño con CSS, y backend en lenguajes como JavaScript, Python y PHP. Estoy en un continuo aprendizaje para mejorar mi lógica de programación y convertirme en un Desarrollador Full Stack.
   <br>
+  <br>
   Me encuentro en un proceso de formacion progresiva y autodidacta a traves cursos online, videos, tutoriales y la práctica con pequeños proyectos. Preparandome para abordar proyectos más complejos que involucren desarrollo de software, control de versiones (Git), patrones de diseño, especializacion web y análisis y estructura de datos. Con el objetivo de aplicar un desarrollo estructurado y limpio, buenas prácticas y automatizar tareas de forma más eficiente y estructurada.
 </p>
 
 <br>
 
 <p>Los lenguajes de programacion, bases de datos y framework descritos en mi perfil
-<br>Son bases enseñadas desde la carrera en la cual me desarrolle, esto incluye una progresion de desarrollo basica y en otros lenguajes un poco mas avanzada</p>
+<br>Son conocimientos adquiridos durante mi formación académica, la cual incluye un progreso básico e intermedio en su desarrollo y aplicación.</p>
 
 <br>
 <h1> My Skills </h1>
