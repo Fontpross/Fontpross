@@ -1,7 +1,11 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <h3>Hola Mi nombre es Joaquin Torres</h3>
-<p>Soy un Analista Programador Actualmente enfocado en el desarrollo de software, aplicaciones web, con un conocimiento de desarrollo de bases de datos intermedio, diseños en CSS y backend basico o intermedio en algunos lenguajes. Progresivamente me integro en los lenguajes para mejorar mi logica de programacion, con el proposito de realizar en un futuro un desarrollo de software, analisis de datos y automatizacion de tareas mas eficiente y estructurado</p>
+<p>
+  Soy Analista Programador, actualmente enfocado en el desarrollo de software y aplicaciones web. Poseo conocimientos intermedios en desarrollo de bases de datos, diseño con CSS, y backend en lenguajes como JavaScript, Python y PHP. Estoy en un continuo aprendizaje para mejorar mi lógica de programación y convertirme en un Desarrollador Full Stack.
+  <br>
+  Me educo de manera progresiva y autodidacta mediante cursos online, videos, tutoriales y la práctica con pequeños proyectos. Me estoy preparando para abordar proyectos más complejos que involucren desarrollo de software, control de versiones (Git),  patrones de diseño, análisis y estructura de datos. Con el objetivo de aplicar buenas prácticas y automatizar tareas de forma más eficiente y estructurada.
+</p>
 
 <br>
 
