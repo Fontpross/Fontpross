@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/_.juacovp._dku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JuacoDepv" height="30" width="40" /></a>
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
     
-<h2> Spotify Playing 🎧 </h2> 
+<h2 align="center"> Spotify Playing 🎧 </h2> 
 
 [![Escuchar en Spotify](https://img.shields.io/badge/Escuchar%20en-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq)
 
@@ -52,18 +52,20 @@
   <img src="https://github.com/user-attachments/assets/5310f34e-f5bc-43ad-b2ac-7d73203b448e" alt="Madrid - Kidd Voodoo, Alvaro Diaz" width="1011"/>
 </a>
 
-<h2> Profile stats </h2>
-<div align="left">
-  <div>
+<h2>Profile stats</h2>
+
+<div style="display: flex; gap: 10px; align-items: center;">
   <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
-    
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Fontpross&theme=midnight-purple)](https://git.io/streak-stats)
   
-  </div>
+  <a href="https://git.io/streak-stats">
+    <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Fontpross&theme=midnight-purple"/>
+  </a>
+</div>
+
 
   <br><br>
 
-  <h3 align="left">Activity:</h3>
+  <h3 align="center">Activity:</h3>
 
   <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fontpross&theme=vue" alt="profile detail" />
