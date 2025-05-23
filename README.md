@@ -49,6 +49,7 @@
 <br>
 <br>
 
+<hr>
 <h2 align="center"> Spotify Playing 🎧 </h2>
 
 <p align="center">
@@ -64,7 +65,7 @@
 </p>
 
 <br>
-
+<hr>
 <h2 align="center">
   Profile Stats&nbsp;
   <img src="https://github.com/user-attachments/assets/0a9905de-8952-4c8c-9c1a-53875448d320" alt="stats" height="25"/>
