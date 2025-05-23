@@ -76,9 +76,9 @@
   <a href="https://git.io/streak-stats">
     <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Fontpross&theme=midnight-purple"/>
   </a>
-</div>
 
-<p align="center">
+
+  <p align="center">
   <table>
     <tr>
       <td>
@@ -92,6 +92,7 @@
     </tr>
   </table>
 </p>
+</div>
 
 
 <br><br>
