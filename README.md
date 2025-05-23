@@ -40,6 +40,11 @@
   <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
 </span>
 
+<h3> Other Tools and Technologies </h3>
+<span>
+  <img src="">
+</span>
+
 <br>
 
 <h2> Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </h2>
