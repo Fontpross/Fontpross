@@ -48,15 +48,9 @@
 
 [![Escuchar en Spotify](https://img.shields.io/badge/Escuchar%20en-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq)
 
-<img style="border-radius: 12px" 
-    src="https://open.spotify.com/embed/track/2DqglvFMls6hZUumCCl8xq?utm_source=generator" 
-    width="100%" 
-    height="152" 
-    frameborder="0" 
-    allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-/>
+<a href="https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq" target="_blank">
+  <img src="" alt="Madrid - Kidd Voodoo, Alvaro Diaz" width="300"/>
+</a>
 
 <h2> Profile stats </h2>
 <div align="left">
