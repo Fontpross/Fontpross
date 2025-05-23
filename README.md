@@ -4,17 +4,18 @@
 <p>
   Soy Analista Programador, actualmente enfocado en el desarrollo de software y aplicaciones web. Poseo conocimientos intermedios en desarrollo de bases de datos, diseño con CSS, y backend en lenguajes como JavaScript, Python y PHP. Estoy en un continuo aprendizaje para mejorar mi lógica de programación y convertirme en un Desarrollador Full Stack.
   
-  <br><br>
+  <br>
   
   Me encuentro en un proceso de formacion progresiva y autodidacta a traves cursos online, videos, tutoriales y la práctica con pequeños proyectos. Preparandome para abordar proyectos más complejos que involucren desarrollo de software, control de versiones (Git), patrones de diseño, especializacion web y análisis y estructura de datos. Con el objetivo de aplicar un desarrollo estructurado y limpio, buenas prácticas y automatizar tareas de forma más eficiente y estructurada.
 </p>
 
-  <br><br>
+  <br>
 
 <p>Los lenguajes de programacion, bases de datos y framework descritos en mi perfil
 <br>Son conocimientos adquiridos durante mi formación académica, la cual incluye un progreso básico e intermedio en su desarrollo y aplicación.</p>
 
-<br>
+  <br>
+  
 <h1> My Skills </h1>
 <h3> Languages </h3>
 <span>
@@ -45,9 +46,8 @@
   <a href="https://www.instagram.com/_.juacovp._dku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JuacoDepv" height="30" width="40" /></a>
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
 
-
-<br><br>
-<br><br>
+<br>
+<br>
 
 <h2 align="center"> Spotify Playing 🎧 </h2>
 
@@ -63,8 +63,8 @@
   </a>
 </p>
 
-<br><br>
-<br><br>
+<br>
+<br>
 
 <h2 align="center">
   Profile Stats
@@ -77,26 +77,7 @@
   <a href="https://git.io/streak-stats">
     <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Fontpross&theme=midnight-purple"/>
   </a>
-
-
-  <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
-      </td>
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Fontpross&theme=midnight-purple"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
 </div>
-
-
-<br><br>
 
 <h3 align="center">
   My Activity&nbsp;
