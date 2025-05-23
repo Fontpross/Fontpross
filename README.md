@@ -92,7 +92,7 @@
     width="100%" 
   />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%(Joaquin%Torres)%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%-Joaquin%Torres%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" 
     alt="Fontpross Graph" 
     width="100%" 
   />
