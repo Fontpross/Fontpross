@@ -49,7 +49,7 @@
 [![Escuchar en Spotify](https://img.shields.io/badge/Escuchar%20en-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq)
 
 <a href="https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq" target="_blank">
-  <img src=!"https://github.com/user-attachments/assets/5310f34e-f5bc-43ad-b2ac-7d73203b448e" alt="Madrid - Kidd Voodoo, Alvaro Diaz" width="1011"/>
+  <img src="https://github.com/user-attachments/assets/5310f34e-f5bc-43ad-b2ac-7d73203b448e" alt="Madrid - Kidd Voodoo, Alvaro Diaz" width="1011"/>
 </a>
 
 <h2> Profile stats </h2>
