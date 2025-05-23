@@ -79,7 +79,7 @@
 
 <h2 align="center">
   My Activity&nbsp;
-  <img src="https://github.com/user-attachments/assets/6ae1a8cb-137c-47d3-a154-4ac7d38d1742" alt="statistics" height="20"/>
+  <img src="https://github.com/user-attachments/assets/8196182e-fffa-469b-8c4a-7e3fb9db6f5e" alt="statistics" height="20"/>
 </h2>
 
 
