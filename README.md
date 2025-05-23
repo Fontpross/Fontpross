@@ -45,6 +45,19 @@
   <a href="https://www.instagram.com/_.juacovp._dku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JuacoDepv" height="30" width="40" /></a>
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
 
+<h2 align="center">
+  Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</h2>
+
+<div align="center">
+  <a href="https://www.instagram.com/_.juacovp._dku/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Fontpross" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</div>
+
 <br>
 <br>
 
@@ -91,7 +104,7 @@
     width="100%" 
   />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%(Joaquin%Torres)%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" 
     alt="Fontpross Graph" 
     width="100%" 
   />
