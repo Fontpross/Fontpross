@@ -42,7 +42,7 @@
 
 <h3> Other Tools and Technologies </h3>
 <span>
-  <img src="">
+  <img src="https://img.shields.io/badge/Git%23EF4223.svg?style=for-the-badge&logo=git&logoColor=white">
 </span>
 
 <br>
