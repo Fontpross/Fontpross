@@ -80,7 +80,7 @@
 <br>
 
 <h2 align="center">
-  My Activity&nbsp;
+  My GitHub Activity&nbsp;
   <img src="https://github.com/user-attachments/assets/8196182e-fffa-469b-8c4a-7e3fb9db6f5e" alt="statistics" height="35"/>
 </h2>
 
