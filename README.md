@@ -63,9 +63,12 @@
 <br><br>
 <br><br>
 
-<h2 align="center" >Profile stats</h2>
+<h2 align="center">
+  Profile Stats
+  <img src="https://github.com/user-attachments/assets/0a9905de-8952-4c8c-9c1a-53875448d320" alt="stats" height="25"/>
+</h2>
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
   <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
   
   <a href="https://git.io/streak-stats">
