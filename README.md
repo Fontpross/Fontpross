@@ -9,7 +9,6 @@
   Me encuentro en un proceso de formacion progresiva y autodidacta a traves cursos online, videos, tutoriales y la práctica con pequeños proyectos. Preparandome para abordar proyectos más complejos que involucren desarrollo de software, control de versiones (Git), patrones de diseño, especializacion web y análisis y estructura de datos. Con el objetivo de aplicar un desarrollo estructurado y limpio, buenas prácticas y automatizar tareas de forma más eficiente y estructurada.
 </p>
 
-  <br>
 
 <p>Los lenguajes de programacion, bases de datos y framework descritos en mi perfil
 <br>Son conocimientos adquiridos durante mi formación académica, la cual incluye un progreso básico e intermedio en su desarrollo y aplicación.</p>
@@ -79,10 +78,10 @@
   </a>
 </div>
 
-<h3 align="center">
+<h2 align="center">
   My Activity&nbsp;
   <img src="https://github.com/user-attachments/assets/958110e2-fd25-4fad-9828-867e0583b27b" alt="statistics" height="30"/>
-</h3>
+</h2>
 
 <div align="center">
   <img 
