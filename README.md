@@ -45,23 +45,23 @@
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
     
 <h2> Spotify Playing 🎧 </h2> 
-** 🎵 Mi canción favorita
 
 [![Escuchar en Spotify](https://img.shields.io/badge/Escuchar%20en-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq)
 
-<style="border-radius:12px" src="https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-
-
+<iframe style="border-radius:12px" 
+    src="https://open.spotify.com/embed/track/2DqglvFMls6hZUumCCl8xq?utm_source=generator" 
+    width="100%" 
+    height="152" 
+    frameborder="0" 
+    allowfullscreen="" 
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+    loading="lazy">
+</iframe>
 
 <h2> Profile stats </h2>
 <div align="left">
   <div>
-    <img
-      height="150"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"
-    />
-    
+    <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
   </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fontpross&theme=vue" alt="profile detail" />
 </div>
