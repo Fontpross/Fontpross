@@ -45,6 +45,9 @@
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
 
 
+<br><br>
+<br><br>
+
 <h2 align="center"> Spotify Playing 🎧 </h2>
 
 <p align="center">
@@ -61,7 +64,6 @@
 
 <br><br>
 <br><br>
-<br><br>
 
 <h2 align="center">
   Profile Stats
@@ -76,11 +78,27 @@
   </a>
 </div>
 
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Fontpross&theme=midnight-purple"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 <br><br>
 
 <h3 align="center">
   My Activity&nbsp;
-  <img src="https://github.com/user-attachments/assets/958110e2-fd25-4fad-9828-867e0583b27b" alt="statistics" height="20"/>
+  <img src="https://github.com/user-attachments/assets/958110e2-fd25-4fad-9828-867e0583b27b" alt="statistics" height="30"/>
 </h3>
 
 <div align="center">
