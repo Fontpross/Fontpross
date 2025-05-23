@@ -59,8 +59,11 @@
   </a>
 </p>
 
+<br><br>
+<br><br>
+<br><br>
 
-<h2>Profile stats</h2>
+<h2 align="center" >Profile stats</h2>
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
@@ -75,30 +78,16 @@
 <h3 align="center">My Activity</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fontpross&theme=vue" 
-          alt="Profile Detail" 
-          width="400"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" 
-          alt="Fontpross Graph" 
-          width="400"
-        />
-      </td>
-    </tr>
-  </table>
-
   <img 
-    src="https://i.imgur.com/dBaSKWF.gif" 
-    alt="divider" 
-    height="20" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fontpross&theme=vue" 
+    alt="Profile Detail" 
     width="100%" 
   />
-</div>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" 
+    alt="Fontpross Graph" 
+    width="100%" 
+  />
+
+  <img src="https://i.imgur.com/dBaSKWF.gif" alt="divider" height="20" width="100%"/>
+</div>
