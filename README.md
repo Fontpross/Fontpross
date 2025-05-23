@@ -63,7 +63,6 @@
 </p>
 
 <br>
-<br>
 
 <h2 align="center">
   Profile Stats&nbsp;
@@ -80,8 +79,9 @@
 
 <h2 align="center">
   My Activity&nbsp;
-  <img src="https://github.com/user-attachments/assets/910f7f19-1c53-40ca-b194-762de5dbfcd2" alt="statistics" height="20"/>
+  <img src="https://github.com/user-attachments/assets/6ae1a8cb-137c-47d3-a154-4ac7d38d1742" alt="statistics" height="20"/>
 </h2>
+
 
 
 <div align="center">
