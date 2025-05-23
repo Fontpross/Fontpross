@@ -52,8 +52,7 @@
 <div align="center">
   <a href="https://www.instagram.com/_.juacovp._dku/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Fontpross" target="_blank">
+  </a><a href="https://github.com/Fontpross" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </div>
