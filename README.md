@@ -55,24 +55,23 @@
 <h2> Profile stats </h2>
 <div align="left">
   <div>
-    <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
+  <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fontpross&theme=vue"/>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Fontpross&theme=midnight-purple)](https://git.io/streak-stats)
   
   </div>
 
-<br><br>
-<br><br>
+  <br><br>
 
-<h3 align="left">Activity:</h3>
+  <h3 align="left">Activity:</h3>
 
-</div>
+  <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fontpross&theme=vue" alt="profile detail" />
   
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Fontpross Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true);
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+  </div>
 </div>
 
 
