@@ -3,12 +3,13 @@
 <h3>Hola Mi nombre es Joaquin Torres</h3>
 <p>
   Soy Analista Programador, actualmente enfocado en el desarrollo de software y aplicaciones web. Poseo conocimientos intermedios en desarrollo de bases de datos, diseño con CSS, y backend en lenguajes como JavaScript, Python y PHP. Estoy en un continuo aprendizaje para mejorar mi lógica de programación y convertirme en un Desarrollador Full Stack.
-  <br>
-  <br>
+  
+  <br><br>
+  
   Me encuentro en un proceso de formacion progresiva y autodidacta a traves cursos online, videos, tutoriales y la práctica con pequeños proyectos. Preparandome para abordar proyectos más complejos que involucren desarrollo de software, control de versiones (Git), patrones de diseño, especializacion web y análisis y estructura de datos. Con el objetivo de aplicar un desarrollo estructurado y limpio, buenas prácticas y automatizar tareas de forma más eficiente y estructurada.
 </p>
 
-<br>
+  <br><br>
 
 <p>Los lenguajes de programacion, bases de datos y framework descritos en mi perfil
 <br>Son conocimientos adquiridos durante mi formación académica, la cual incluye un progreso básico e intermedio en su desarrollo y aplicación.</p>
