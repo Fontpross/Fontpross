@@ -43,14 +43,7 @@
 ## Connect with me  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
   <a href="https://www.instagram.com/_.juacovp._dku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JuacoDepv" height="30" width="40" /></a>
   <a href="https://github.com/Fontpross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JuacoDepv" height="30" width="40" /></a>
-    
-<h2 align="center"> Spotify Playing 🎧 </h2> 
 
-[![Escuchar en Spotify](https://img.shields.io/badge/Escuchar%20en-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq)
-
-<a href="https://open.spotify.com/intl-es/track/2DqglvFMls6hZUumCCl8xq" target="_blank">
-  <img src="https://github.com/user-attachments/assets/5310f34e-f5bc-43ad-b2ac-7d73203b448e" alt="Madrid - Kidd Voodoo, Alvaro Diaz" width="1011"/>
-</a>
 
 <h2 align="center"> Spotify Playing 🎧 </h2>
 
@@ -77,19 +70,19 @@
   </a>
 </div>
 
+<br><br>
 
-  <br><br>
+<h3 align="center">My Activity</h3>
 
-  <h3 align="center">Activity:</h3>
-
-  <div>
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fontpross&theme=vue" alt="profile detail" />
   
-  ![Fontpross Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true);
-
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fontpross&custom_title=Fontpross%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Fontpross Graph" />
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" />
 </div>
+
+
 
 
 
