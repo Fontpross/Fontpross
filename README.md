@@ -78,7 +78,10 @@
 
 <br><br>
 
-<h3 align="center">My Activity</h3>
+<h3 align="center">
+  My Activity;
+  <img src="https://github.com/user-attachments/assets/958110e2-fd25-4fad-9828-867e0583b27b" alt="statistics" height="20"/>
+</h3>
 
 <div align="center">
   <img 
