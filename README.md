@@ -10,7 +10,7 @@
 </p>
 
 <p>Los lenguajes de programacion, bases de datos y framework descritos en mi perfil
-<br>Son conocimientos adquiridos durante mi formación académica, la cual incluye un progreso básico e intermedio en su desarrollo y aplicación.</p>
+<br>Son conocimientos adquiridos durante mi formación académica, la cual incluye un progreso básico, intermedio y avanzado en el desarrollos y aplicación de estos.</p>
 
 <br>
   
