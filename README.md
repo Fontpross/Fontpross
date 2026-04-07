@@ -15,7 +15,7 @@
 <br>
   
 <h1> My Skills </h1>
-<h3> Languages Backend </h3>
+<h3> Backend </h3>
 <span>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
