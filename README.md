@@ -3,11 +3,11 @@
 <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <h3>Hello, My Name is Joaquin Torres</h3>
 <p>
-  Soy Analista Programador, actualmente enfocado en el desarrollo de software y aplicaciones web. Poseo conocimientos intermedios en desarrollo de bases de datos, diseño con CSS, y backend en lenguajes como JavaScript, Python y PHP. Estoy en un continuo aprendizaje para mejorar mi lógica de programación y convertirme en un Desarrollador Full Stack, Analista y Pentester.
+  Soy Analista Programador, actualmente enfocado en el desarrollo de software y aplicaciones web. Poseo conocimientos intermedios en desarrollo de bases de datos, diseño con CSS, y backend en lenguajes como JavaScript, Python y PHP. Estoy en un continuo aprendizaje para mejorar mi lógica de programación y convertirme en un Desarrollador Full Stack, Analista, Seguridad y Pentester.
   
 <br>
   
-  Me encuentro en un proceso de formacion progresiva y autodidacta a traves cursos online, videos, tutoriales y la práctica con pequeños proyectos. Preparandome para abordar proyectos más complejos que involucren desarrollo de software, control de versiones (Git), patrones de diseño, especializacion web y análisis y estructura de datos. Con el objetivo de aplicar un desarrollo estructurado y limpio, buenas prácticas, automatizando tareas de forma más eficiente y estructurada.
+  Me encuentro en un proceso de formacion universitaria, progresiva y autodidacta a traves cursos online, videos y la práctica con pequeños y medianos proyectos. Preparandome para abordar proyectos más complejos que involucren desarrollo de software, control de versiones (Git), patrones de diseño, componentes y especializacion web. Tambien tomando un enfoque para la ciberseguridad, analisis y estructura de datos. Con el objetivo de aplicar un desarrollo estructurado y limpio, con buenas prácticas, automatizando tareas de forma más eficiente y estructurada.
 </p>
 
 <p>Los lenguajes de programacion, bases de datos y framework descritos en mi perfil
